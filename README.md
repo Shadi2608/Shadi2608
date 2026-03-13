@@ -1,6 +1,6 @@
 # Hi, I'm Shadi 👋🏻
 
-I'm a 26-year-old Embedded Systems & IoT student at Nackademin, currently based in Uppsala, Sweden.
+I'm a 26-year-old Software Developer, Embedded Systems & IoT student at Nackademin, currently based in Uppsala, Sweden.
 
 I'm relatively new to the IT world, but I have a strong interest in technology and building smart solutions where hardware and software work together. I enjoy learning how systems interact with the physical world and how small pieces of code can control real devices.
 
