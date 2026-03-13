@@ -5,7 +5,7 @@ I'm a 26-year-old Software Developer, Embedded Systems & IoT student at Nackadem
 I'm relatively new to the IT world, but I have a strong interest in technology and building smart solutions where hardware and software work together. I enjoy learning how systems interact with the physical world and how small pieces of code can control real devices.
 
 ## About me 🙋🏻‍♀️
-- 🎓 Studying Embedded Systems & IoT Development at Nackademin
+- 🎓 Studying Software Developer, Embedded Systems & IoT Development at Nackademin
 - 💡 Interested in smart systems, automation and connected devices
 - 🔧 Enjoy working with hardware, microcontrollers and programming
 - 🚀 Always curious about new technologies and problem solving
